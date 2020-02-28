@@ -3,11 +3,10 @@
 
 ## Tech Stack
 ```
-1. HTML
-2. CSS
-3. Bootstrap 4
-4. FontAwesome
-5. Animate CSS
+1. Bootstrap 4
+2. FontAwesome
+3. Animate CSS
+4. Jquery
 ```
 
 ## Folder Structure

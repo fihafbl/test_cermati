@@ -243,6 +243,8 @@ p {
 
 .btn-count {
   font-size: 12px;
+  color: white;
+  background-color: var(--main-orange);
 }
 
 /*--------------------------------------------------------------
@@ -275,6 +277,22 @@ p {
   
   #header {
     padding: 95px 0px;
+  }
+}
+
+@media (max-width: 768px) { 
+  .cookie {
+    margin-left: 10vh;
+  }
+
+  #header {
+    padding: 100px 0px;
+  }
+}
+
+@media only screen  and (min-device-width: 800px)  and (max-device-width: 1280px)  and (-webkit-min-device-pixel-ratio: 1.5) {
+  .cookie {
+    margin-left: 10vh;
   }
 }
 
